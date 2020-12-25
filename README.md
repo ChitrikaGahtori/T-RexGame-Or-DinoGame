@@ -19,6 +19,6 @@ Python Imaging Library (abbreviated as PIL) (in newer versions known as Pillow) 
 4.Set the coordinates accordingly for perfect obstacle detection.
 
 
-## DEMO
+**DEMO**
 
 ![alt text](https://github.com/ChitrikaGahtori/T-RexGame-Or-DinoGame/blob/master/gif/DinoGame.gif)
