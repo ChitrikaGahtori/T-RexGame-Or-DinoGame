@@ -21,4 +21,4 @@ Working:
 
 DEMO
 
-![alt text](https://github.com/ChitrikaGahtori/T-RexGame-Or-DinoGame/tree/master/gif)
+![alt text](https://github.com/ChitrikaGahtori/T-RexGame-Or-DinoGame/blob/master/gif/DinoGame.gif)
