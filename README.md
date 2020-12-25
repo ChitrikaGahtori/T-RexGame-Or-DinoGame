@@ -1,7 +1,7 @@
 # DINOSAUR GAMEBOT
 
 
-Game Link : http://www.trex-game.skipser.com/
+Game Link : http://www.trex-game.skipser.com/<br/>
 This is a automatic player game. The python code controls the dinosaur (player).<br/>
 Works using python's image processing library.
 
